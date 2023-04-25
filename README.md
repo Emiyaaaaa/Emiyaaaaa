@@ -23,12 +23,12 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Emiyaaaaa&theme=transparent&hide_border=true&title_color=00ADA2&text_color=E6EDF3"
+  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Emiyaaaaa&theme=transparent&hide_border=true&title_color=00ADA2&text_color=E6EDF3&langs_count=5"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Emiyaaaaa&theme=transparent&hide_border=true&title_color=00ADA2&text_color=24292F"
+  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Emiyaaaaa&theme=transparent&hide_border=true&title_color=00ADA2&text_color=24292F&langs_count=5"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Emiyaaaaa&theme=transparent&hide_border=true&title_color=00ADA2&text_color=E6EDF3" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Emiyaaaaa&theme=transparent&hide_border=true&title_color=00ADA2&text_color=E6EDF3&langs_count=5" />
 </picture>

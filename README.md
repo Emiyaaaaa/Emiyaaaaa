@@ -1,4 +1,15 @@
-### Technology Stack
+<img height='150' src='./cat-coding/1.gif'>
+<img height='150' src='./cat-coding/2.gif'>
+<img height='150' src='./cat-coding/3.gif'>
+<img height='150' src='./cat-coding/4.gif'>
+<br />
+<br />
+
+**<font size='6'>Hi 👋</font>, I'm Emiya, a font-end developer. Love typescript, open source, and cat.**
+
+I'm maintainer of the best typescript utils library [type-fest](https://github.com/sindresorhus/type-fest): [click here](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr+author%3AEmiyaaaaa+is%3Amerged+) to see my contributions.
+
+#### My Technology Stack
 
 **Languages**
 
@@ -39,7 +50,7 @@
 ![icon](https://img.shields.io/badge/Github_copilot-%23404040?logo=githubcopilot)
 
 
-### My github stats
+#### My github stats
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=Emiyaaaaa&icon_color=20A9A0&show_icons=true&theme=transparent&hide_border=true&title_color=00ADA2&text_color=E6EDF3&include_all_commits=true&hide_rank=true&hide_title=true"

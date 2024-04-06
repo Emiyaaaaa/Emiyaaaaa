@@ -1,9 +1,9 @@
+<p float="left">
 <img height='150' src='./cat-coding/1.gif'>
 <img height='150' src='./cat-coding/2.gif'>
 <img height='150' src='./cat-coding/3.gif'>
 <img height='150' src='./cat-coding/4.gif'>
-<br />
-<br />
+</p>
 
 **<font size='6'>Hi 👋</font>, I'm Emiya, a font-end developer. Love typescript, open source, and cat.**
 

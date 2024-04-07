@@ -45,6 +45,7 @@ I'm maintainer of the best typescript utils library [type-fest](https://github.c
 
 **Tools**
 
+![icon](https://img.shields.io/badge/Shell-%23404040?logo=gnubash)
 ![icon](https://img.shields.io/badge/Git-%23404040?logo=git)
 ![icon](https://img.shields.io/badge/npm-%23404040?logo=npm)
 ![icon](https://img.shields.io/badge/Github_actions-%23404040?logo=githubactions)

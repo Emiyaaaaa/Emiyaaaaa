@@ -25,6 +25,7 @@ I'm maintainer of the best typescript utils library [type-fest](https://github.c
 ![icon](https://img.shields.io/badge/Next-%23404040?logo=nextdotjs)
 ![icon](https://img.shields.io/badge/Tailwind_css-%23404040?logo=tailwindcss)
 ![icon](https://img.shields.io/badge/Node.js-%23404040?logo=nodedotjs)
+![icon](https://img.shields.io/badge/koa.js-%23404040?logo=koa)
 
 **Technologies**
 

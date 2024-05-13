@@ -51,6 +51,7 @@ I'm maintainer of the best typescript utils library [type-fest](https://github.c
 ![icon](https://img.shields.io/badge/Github_actions-%23404040?logo=githubactions)
 ![icon](https://img.shields.io/badge/Github_copilot-%23404040?logo=githubcopilot)
 
+[❤ Sponsor me](https://afdian.net/a/emiyaaaaa)
 
 #### My github stats
 <picture>

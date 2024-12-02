@@ -46,8 +46,6 @@
 ![icon](https://img.shields.io/badge/Github_actions-%23404040?logo=githubactions)
 ![icon](https://img.shields.io/badge/Github_copilot-%23404040?logo=githubcopilot)
 
-[❤ Sponsor me](https://afdian.net/a/emiyaaaaa)
-
 <p float="left">
 <img height='150' src='./cat-coding/1.gif'>
 <img height='150' src='./cat-coding/2.gif'>

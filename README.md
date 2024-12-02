@@ -1,7 +1,7 @@
 **<font size='6'>Hi 👋</font>, I'm Emiya, a font-end developer. Love typescript, open source, and cat.**
 
 
-**I'm maintainer of the best typescript utils library [type-fest](https://github.com/sindresorhus/type-fest), see my contributions: [click here](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr+author%3AEmiyaaaaa+is%3Amerged+).**
+**I'm maintainer of the best typescript utils library [type-fest](https://github.com/sindresorhus/type-fest), see my contributions: [click here](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr+author%3AEmiyaaaaa).**
 
 
 #### My Technology Stack

@@ -1,51 +1,17 @@
-**<font size='6'>Hi 👋</font>, I'm Haozheng Li, a font-end developer. Love typescript, open source, and cat.**
+**<font size='6'>Hi 👋</font>, I'm 李浩正(Haozheng Li), a font-end developer. Love typescript, open source, and cat.**
 
+Maintainer of the best typescript utils library [type-fest](https://github.com/sindresorhus/type-fest)
+<br/>
+<br/>
 
-**I'm maintainer of the best typescript utils library [type-fest](https://github.com/sindresorhus/type-fest), this is my contributions: [click here](https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr+author%3AEmiyaaaaa).**
+**My contributions**
+- <a href="https://github.com/sindresorhus/type-fest"><img align="center" alt="GitHub Repo stars" height="20" src="https://img.shields.io/github/stars/sindresorhus/type-fest?label=sindresorhus%2Ftype-fest"></a> | <a href="https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr+author%3AEmiyaaaaa+is%3Amerged"><img align="center" height="20" src="https://img.shields.io/github/commit-activity/t/sindresorhus/type-fest?authorFilter=emiyaaaaa&label=Merged%20PRs" /></a>
+- <a href="https://github.com/vitest-dev/vitest"><img align="center" alt="GitHub Repo stars" height="20" src="https://img.shields.io/github/stars/vitest-dev/vitest?label=vitest-dev%2Fvitest"></a> | <a href="https://github.com/vitest-dev/vitest/pulls?q=is%3Apr+author%3AEmiyaaaaa+is%3Amerged"><img align="center" height="20" src="https://img.shields.io/github/commit-activity/t/vitest-dev/vitest?authorFilter=emiyaaaaa&label=Merged%20PRs" /></a>
+- <a href="https://github.com/antfu-collective/taze"><img align="center" alt="GitHub Repo stars" height="20" src="https://img.shields.io/github/stars/antfu-collective/taze?label=antfu-collective%2Ftaze"></a> | <a href="https://github.com/antfu-collective/taze/pulls?q=is%3Apr+author%3AEmiyaaaaa+is%3Amerged"><img align="center" height="20" src="https://img.shields.io/github/commit-activity/t/antfu-collective/taze?authorFilter=emiyaaaaa&label=Merged%20PRs" /></a>
+- <a href="https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge"><img align="center" alt="GitHub Repo stars" height="20" src="https://img.shields.io/github/stars/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge?label=The-Pocket%2FPocketFlow-Tutorial-Codebase-Knowledge"></a> | <a href="https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge/pulls?q=is%3Apr+author%3AEmiyaaaaa+is%3Amerged"><img align="center" height="20" src="https://img.shields.io/github/commit-activity/t/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge?authorFilter=emiyaaaaa&label=Merged%20PRs" /></a>
 
-
-#### My Technology Stack
-
-**Languages**
-
-![icon](https://img.shields.io/badge/Typescript-%23404040?logo=typescript)
-![icon](https://img.shields.io/badge/Javascript-%23404040?logo=Javascript)
-![icon](https://img.shields.io/badge/Html5-%23404040?logo=html5)
-![icon](https://img.shields.io/badge/CSS3-%23404040?logo=css3)
-
-**Frameworks**
-
-![icon](https://img.shields.io/badge/React-%23404040?logo=React)
-![icon](https://img.shields.io/badge/Svelte-%23404040?logo=Svelte)
-![icon](https://img.shields.io/badge/Next-%23404040?logo=nextdotjs)
-![icon](https://img.shields.io/badge/Tailwind_css-%23404040?logo=tailwindcss)
-![icon](https://img.shields.io/badge/Node.js-%23404040?logo=nodedotjs)
-![icon](https://img.shields.io/badge/koa.js-%23404040?logo=koa)
-
-**Technologies**
-
-![icon](https://img.shields.io/badge/Vite-%23404040?logo=Vite)
-![icon](https://img.shields.io/badge/Rollup-%23404040?logo=Rollupdotjs)
-![icon](https://img.shields.io/badge/Turborepo-%23404040?logo=turborepo)
-![icon](https://img.shields.io/badge/Vitest-%23404040?logo=Vitest)
-![icon](https://img.shields.io/badge/Three.js-%23404040?logo=threedotjs)
-![icon](https://img.shields.io/badge/MySQL-%23404040?logo=mysql)
-
-**Lint**
-
-![icon](https://img.shields.io/badge/Biome-%23404040?logo=biome)
-![icon](https://img.shields.io/badge/Eslint-%23404040?logo=eslint)
-![icon](https://img.shields.io/badge/prettier-%23404040?logo=prettier)
-![icon](https://img.shields.io/badge/xo-%23404040?logo=xo)
-
-**Tools**
-
-![icon](https://img.shields.io/badge/Shell-%23404040?logo=gnubash)
-![icon](https://img.shields.io/badge/Git-%23404040?logo=git)
-![icon](https://img.shields.io/badge/npm-%23404040?logo=npm)
-![icon](https://img.shields.io/badge/Github_actions-%23404040?logo=githubactions)
-![icon](https://img.shields.io/badge/Github_copilot-%23404040?logo=githubcopilot)
-
+<br/>
+<br/>
 <p float="left">
 <img height='150' src='./cat-coding/1.gif'>
 <img height='150' src='./cat-coding/2.gif'>

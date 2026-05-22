@@ -4,7 +4,7 @@ Maintainer of the best typescript utils library [type-fest](https://github.com/s
 <br>
 <br>
 
-**My contributions**
+**Contributions**
 <!-- sindresorhus/type-fest -->
 <a href="https://github.com/sindresorhus/type-fest">
   <img align="center" alt="GitHub Repo stars" height="20" src="https://img.shields.io/badge/sindresorhus%2Ftype--fest-17.2k-1f6eeb?style=flat&logo=github&logoColor=black&labelColor=white"></a>

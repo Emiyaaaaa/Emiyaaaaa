@@ -12,6 +12,13 @@ Maintainer of the best typescript utils library [type-fest](https://github.com/s
 <a href="https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr+author%3AEmiyaaaaa+is%3Amerged">
   <img align="center" height="20" src="https://img.shields.io/badge/merged%20PRs-60-blue?style=flat-square&labelColor=%239810fa&color=%23fff" /></a>
 <br>
+<!-- heroui-inc/heroui -->
+<a href="https://github.com/heroui-inc/heroui">
+  <img align="center" alt="GitHub Repo stars" height="20" src="https://img.shields.io/badge/heroui--inc%2Fheroui-29.4k-1f6eeb?style=flat&logo=github&logoColor=black&labelColor=white"></a>
+| 
+<a href="https://github.com/heroui-inc/heroui/pulls?q=is%3Apr+author%3AEmiyaaaaa+is%3Amerged">
+  <img align="center" height="20" src="https://img.shields.io/badge/merged%20PRs-1-blue?style=flat-square&labelColor=%239810fa&color=%23fff" /></a>
+<br>
 <!-- vitest-dev/vitest -->
 <a href="https://github.com/vitest-dev/vitest">
   <img align="center" alt="GitHub Repo stars" height="20" src="https://img.shields.io/badge/vitest--dev%2Fvitest-17k-1f6eeb?style=flat&logo=github&logoColor=black&labelColor=white"></a>

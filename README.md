@@ -33,6 +33,13 @@ Maintainer of the best typescript utils library [type-fest](https://github.com/s
 <a href="https://github.com/antfu-collective/taze/pulls?q=is%3Apr+author%3AEmiyaaaaa+is%3Amerged">
   <img align="center" height="20" src="https://img.shields.io/badge/merged%20PRs-2-blue?style=flat-square&labelColor=%239810fa&color=%23fff" /></a>
 <br>
+<!-- antfu/ghfs -->
+<a href="https://github.com/antfu/ghfs">
+  <img align="center" alt="GitHub Repo stars" height="20" src="https://img.shields.io/badge/antfu/ghfs-258-1f6eeb?style=social&logo=github&logoColor=black&labelColor=white"></a>
+| 
+<a href="https://github.com/antfu/ghfs/pulls?q=is%3Apr+author%3AEmiyaaaaa+is%3Amerged">
+  <img align="center" height="20" src="https://img.shields.io/badge/merged%20PRs-1-blue?style=flat-square&labelColor=%239810fa&color=%23fff" /></a>
+<br>
 <!-- The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge -->
 <a href="https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge">
   <img align="center" alt="GitHub Repo stars" height="20" src="https://img.shields.io/badge/The--Pocket%2FPocketFlow--Tutorial--Codebase--Knowledge-12k-1f6eeb?style=social&logo=github&logoColor=black&labelColor=white"></a>

@@ -1,4 +1,4 @@
-**<font size='6'>Hi 👋</font>, I'm 李浩正(Haozheng Li), a font-end developer. Love typescript, open source, and cat.**
+**<font size='6'>Hi 👋</font>, I'm 李浩正(Haozheng Li), a font-end developer.
 
 Maintainer of the best typescript utils library [type-fest](https://github.com/sindresorhus/type-fest)
 <br>

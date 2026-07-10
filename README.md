@@ -9,7 +9,7 @@ Maintainer of the best typescript utils library [type-fest](https://github.com/s
   <img align="center" alt="GitHub Repo stars" height="20" src="https://img.shields.io/badge/sindresorhus%2Ftype--fest-17.2k-1f6eeb?style=social&logo=github&logoColor=black&labelColor=white"></a>
 | 
 <a href="https://github.com/sindresorhus/type-fest/pulls?q=is%3Apr+author%3AEmiyaaaaa+is%3Amerged">
-  <img align="center" height="20" src="https://img.shields.io/badge/merged%20PRs-61-blue?style=flat-square&labelColor=%239810fa&color=%23fff" /></a>
+  <img align="center" height="20" src="https://img.shields.io/badge/merged%20PRs-62-blue?style=flat-square&labelColor=%239810fa&color=%23fff" /></a>
 <br>
 <!-- heroui-inc/heroui -->
 <a href="https://github.com/heroui-inc/heroui">
